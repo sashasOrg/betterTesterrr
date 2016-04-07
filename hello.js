@@ -1,1 +1,1 @@
-var yes = "YES"
+var yes = "no"
